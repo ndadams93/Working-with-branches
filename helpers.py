@@ -1,1 +1,4 @@
-print("Hello Jane")
+def message():
+
+    print("Hello Jane")
+    
