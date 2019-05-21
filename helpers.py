@@ -1,4 +1,4 @@
-def message():
+def greet():
 
     print("Hello Jane")
-    
+
